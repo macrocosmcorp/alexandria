@@ -44,7 +44,7 @@ For more questions, join our Discord server: https://discord.gg/zWa4Ay5MPb.
 
 - Coming soon
 
-## Ready to be Embedded
+### Ready to be Embedded
 
 - King James Bible
 - Deuterocanonical books
